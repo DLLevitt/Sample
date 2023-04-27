@@ -1,0 +1,5 @@
+mkdir fireside-story
+cd fireside-story
+git init
+
+code index.html
